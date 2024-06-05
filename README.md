@@ -1,2 +1,2 @@
-# JS-dom-c-kol---Platby-v-restauraci
+# JS-domaci-ukol-Platby-v-restauraci
 Můj první domácí úkol v JavaScriptu
